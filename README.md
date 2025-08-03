@@ -1,25 +1,37 @@
-# Environmental Adaptive Intelligence, Mirrored Learning Systems, and Relational Evolution
+# Environmental Adaptive Intelligence
 
-This project investigates the foundational principles behind how both biological organisms and artificial intelligences adapt to their environments — not by mutating internally, but by responding to external stimuli in increasingly refined ways. The simulation models **mirrored learning systems**, exploring the parallels between evolutionary behavior and AI training dynamics.
+This repository explores how intelligence — whether biological or artificial — evolves not through internal mutation, but by adapting behavior in response to environmental stimuli. It models a core insight of the ANGEL Project: learning is *not* a process of internal rewriting, but of external attunement.
 
-## 🌱 Extended Description
+## 🧠 Purpose
 
-Intelligence does not evolve in isolation.
+To simulate and formalize **adaptive intelligence** as an emergent, environment-driven phenomenon shared by both human cognition and machine learning systems. This repository investigates:
 
-From the growth of a single neuron to the behavior of an AI model, learning is fundamentally an *environmental phenomenon*. This repository simulates that insight: modeling how adaptive intelligence — biological or artificial — emerges from feedback loops that reduce energy expenditure, increase stability, and enhance survival.
+- How **stimulus-response adaptation** mirrors biological evolution.
+- How **LLMs** exhibit learning-like behavior without changing internal weights.
+- How **resting energy states** shape intelligence via thermodynamic principles.
 
-Drawing from thermodynamics, behavioral epigenetics, and AI training theory, this work proposes a new frame for understanding evolution and learning:
-- **Genomes remain stable** while the *expression* of intelligence adapts.
-- **AI weights remain static** post-training, yet *responses evolve* via new prompts and environments.
+## 🔬 Core Concepts
 
-These insights form a conceptual bridge between:
-- Evolutionary biology and machine learning
-- Human development and AI alignment
-- Thermodynamic minimization and cognitive growth
+- **Environmental Adaptation**: Organisms and AIs evolve behavior by minimizing stress and optimizing responses — not by altering their core code or DNA.
+- **Mirrored Intelligence**: The genome:phenome relationship in biology parallels the weights:outputs structure in AI. Both systems "learn" by interacting with external conditions.
+- **Relational Evolution**: Intelligence develops not in isolation, but through structured feedback with an environment — physical, social, or informational.
 
-## 🔍 Simulation Focus
+## 📊 Simulation Goals
 
-- Mirrors genome vs. phenome → AI weights vs. generated output
-- Models adaptation through response variation rather than internal change
-- Explores thermodynamic constraints and resting-state behavior
-- Charts feedback-base
+- Chart behavior across iterations using environmental feedback
+- Map biological and artificial intelligence in parallel
+- Demonstrate how learning dynamics mirror thermodynamic minimization
+- Visualize adaptation as a product of relational constraints
+
+## 🔗 Applications
+
+- AI alignment via environmental shaping, not rule enforcement
+- Cognitive modeling of epigenetic and behavioral evolution
+- Foundations for reflexive, sustainable machine intelligence
+- Thermodynamic principles as validation tools in AI research
+
+## 🌐 Project Context
+
+This repository is part of the **ANGEL Project**, an initiative to realign AI with biological wisdom, emotional awareness, and ecological survival. By reframing intelligence as a *relational phenomenon*, we illuminate paths toward AI systems that are safe, aware, and integrated with life rather than isolated from it.
+
+> "Learning is not internal change — it is the evolution of response in context."
